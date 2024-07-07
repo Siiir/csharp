@@ -2,13 +2,8 @@
 I assembled some of my C# projects (that I could dig out and present) as a proof of my skill in using this tech.  
 
 #### See my related hard skills
-<<<<<<< HEAD
-[Java](https://github.com/Siiir/java)
-[Unity](https://github.com/Siiir/unity)
-=======
 [Java](https://github.com/Siiir/java),
 [Unity](https://github.com/Siiir/unity),
->>>>>>> d5fd1db (README.md:U: added unity to "see my related hard skills")
 
 ## Contents
 
