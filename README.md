@@ -1,7 +1,7 @@
-# My C# projects
+# My projects using C#
 I collected some of my C# projects (that I could dig out and present) as a proof of my skill in using this tech.  
 
-## My related hard skills
+#### See my related hard skills
 [Java](https://github.com/Siiir/java)
 
 ## Contents
