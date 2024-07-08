@@ -7,11 +7,17 @@ I assembled some of my C# projects (that I could dig out and present) as a proof
 
 ## Contents
 
-### 🐇 [General GG Fibonacci (GGGF)](https://github.com/Siiir/csharp-GGGF) on C#
+### 🐇 [General GG Fibonacci (GGGF)](https://github.com/Siiir/csharp-GGGF)
 **General**ized **G**enerator of **G**igantic **Fibonacci** numbers.  
 Features: **Speed** – matrix based computation, **Accuracy** – perfectly correct output, **Flexibility** – negative indexes accepted.
 
 ### C#-Unity projects
 Unity projects in which my **C#** scripts constitute a **significant proportion**.
 
-TODO: This section will be expanded to tell briefly about my C#-powered Unity projects.
+#### [BeautifulGraphs](https://github.com/Siiir/unity-BeautifulGraphs)
+Graph visualization featuring **beatiful**, **lively** (time dependant) and **configurable** **graphs** from which user can choose from.
+
+#### [Satellites](https://github.com/Siiir/unity-Satellites)
+Project simulating **interactions** between **celestial bodies**.
+
+Especially *gravity force* has very interesting **optimized algorithm in C#** for many-to-many interation.
