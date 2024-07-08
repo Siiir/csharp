@@ -11,7 +11,7 @@ I assembled some of my C# projects (that I could dig out and present) as a proof
 **General**ized **G**enerator of **G**igantic **Fibonacci** numbers.  
 Features: **Speed** – matrix based computation, **Accuracy** – perfectly correct output, **Flexibility** – negative indexes accepted.
 
-### [C#-Unity projects](https://github.com/Siiir/unity)
-Unity projects in which my **C#** scripts constitute a significant proportion of the projects.
+### C#-Unity projects
+Unity projects in which my **C#** scripts constitute a **significant proportion**.
 
 TODO: This section will be expanded to tell briefly about my C#-powered Unity projects.
